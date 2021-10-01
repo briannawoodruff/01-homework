@@ -8,7 +8,7 @@ body {
     flex-wrap: wrap;
     background-color: #d9dcd6;
 }
-
+ 
 /* Added main with flexbox for better device viewing */
 main {
     display: flex;
