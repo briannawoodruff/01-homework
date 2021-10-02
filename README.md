@@ -4,4 +4,4 @@ Improved Horiseon's existing code and accessibility.
 
 https://briannawoodruff.github.io/01-homework/ 
 
-![Horiseon Screenshot](assets\images\ScreenCapture001-Horiseon-SocialSolutionServices-briannawoodruff.github.io.jpg)
+<img src="assets\images\ScreenCapture001-Horiseon-SocialSolutionServices-briannawoodruff.github.io.jpg" title="Horiseon Screenshot">
